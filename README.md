@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 
 <html lang="da">
 
@@ -16,7 +15,7 @@
 
             margin: 0;
 
-            background-color: #fff8f0;
+            background-color: #fff8f2;
 
         }
 
